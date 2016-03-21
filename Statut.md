@@ -14,7 +14,7 @@
 ### Art. A3. Rejestry
 1. Rejestr członków to baza danych członków DB prowadzona w formie elektronicznej.
 2. Rejestr uchwał to baza danych uchwał oraz postanowień podjętych przez organy DB prowadzona w formie elektronicznej.
-3. Rejestr składek to baza danych zawierająca informację do kiedy każdy członek ma opłacone składki.
+3. Rejestr składek to baza danych zawierająca informację do kiedy każdy członek ma opłacone składki prowadzona w formie elektronicznej.
 4. Wyżej wymienione rejestry są jawne, i są częścią Biuletynu Informacji Publicznej DB. Członek nie może powoływać się na nieznajomość rejestrów.
 
 ### Art. A4. Sposoby finansowania partii
