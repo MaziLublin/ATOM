@@ -119,13 +119,17 @@ Ogół Członków ma prawo:
 1. uchwalania statutu oraz zmian w statucie DB - w drodze uchwały popartej większością 2/3 głosów;
 2. określania kierunków strategii politycznej DB;
 3. określania programu DB;
-4. powoływania oraz odwoływania członków Zarządu DB - zgodnie z art. E2;
-5. ustanawiania oraz rozwiązywania grup zadaniowych, a także powoływania, odwoływania oraz zmieniania ich władz, chyba, że uchwała powołująca stanowi inaczej - zgodnie z art. F2;
-6. zatwierdzania list wyborczych oraz kandydatów w wyborach powszechnych;
-7. podejmowania decyzji o rozwiązaniu DB albo o połączeniu DB z inną partią - w drodze uchwały popartej większością 2/3 głosów;
-8. podejmowanie decyzji o dołączeniu do organizacji międzynarodowych - w drodze uchwały popartej większością 2/3 głosów;
-9. uchwalenie okresowych planów budżetowych dla partii, mających w określonych w nim ramach wiążący charakter dla zarządu;
-10. podejmowania decyzji niezastrzeżonych dla innych organów DB w przepisach szczegółowych.
+4. rozpatrywania odwołania od nieprzyjęcia członka - zgodnie z art. C4;
+5. dyscyplinarnego zawieszania oraz odwieszania w prawach członka - zgodnie z art. C5;
+6. rozpatrywania odwołania od wykreślenia na skutek nieopłacania składek członkowskich - zgodnie z art. C7;
+7. wykluczania członków - zgodnie z art. C8;
+8. powoływania oraz odwoływania członków Zarządu DB - zgodnie z art. E2;
+9. ustanawiania oraz rozwiązywania grup zadaniowych, a także powoływania, odwoływania oraz zmieniania ich władz, chyba, że uchwała powołująca stanowi inaczej - zgodnie z art. F2 - F5;
+10. zatwierdzania list wyborczych oraz kandydatów w wyborach powszechnych;
+11. podejmowania decyzji o rozwiązaniu DB albo o połączeniu DB z inną partią - w drodze uchwały popartej większością 2/3 głosów;
+12. podejmowanie decyzji o dołączeniu do organizacji międzynarodowych - w drodze uchwały popartej większością 2/3 głosów;
+13. uchwalenie okresowych planów budżetowych dla partii, mających w określonych w nim ramach wiążący charakter dla zarządu;
+14. podejmowania decyzji niezastrzeżonych dla innych organów DB w przepisach szczegółowych.
 
 
 
