@@ -164,7 +164,7 @@ Do kompetencji Sekretarza DB należy zarazem:
 ### Art. E6. Kompetencje skarbnika
 Do kompetencji Skarbnika DB należy zarazem:
 
-1. prowadzenie i aktualizowanie rejestru składek - najrzadziej co miesiąc, w tym przed każdorazowym wysłaniem wezwania do zapłaty zaległych składek;
+1. prowadzenie i aktualizowanie rejestru składek - najrzadziej co miesiąc;
 2. administrowanie finansami DB;
 4. przygotowywanie informacji o działalności finansowej partii;
 5. pełnienie funkcji pełnomocnika finansowego Funduszu Wyborczego Demokracja Bezpośrednia;
