@@ -3,7 +3,8 @@
 ### Art. A1. Demokracja Bezpośrednia
 1. Demokracja Bezpośrednia to partia polityczna.
 2. „DB” to skrót nazwy partii Demokracja Bezpośrednia.
-3. Siedzibą DB jest miasto stołeczne Warszawa.
+3. Terenem działania DB jest Rzeczypospolita Polska.
+4. Siedzibą DB jest miasto stołeczne Warszawa.
 
 ### Art. A2. Tryb podejmowania decyzji
 1. Kolegialne organy DB wyrażają swoją wolę w formie uchwał. Inne organy DB wyrażają swoją wolę w formie postanowień. Członkowie DB wyrażają swoją wolę w formie deklaracji.
