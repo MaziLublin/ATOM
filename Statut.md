@@ -72,36 +72,30 @@ Członek DB ma obowiązek:
 8. przestrzegania postanowień statutu DB.
 
 ### Art. C4. Przyjmowanie członków
-1. O przyjęciu kandydata do DB decyduje Zarząd DB w drodze uchwały, na podstawie złożonej przez kandydata deklaracji członkowskiej.
-2. Od uchwały w sprawie nieprzyjęcia kandydata do DB, kandydat może złożyć odwołanie do Ogółu Członków w terminie nie dłuższym niż 30 dni od dnia podjęcia uchwały.
-3. Ogół Członków może uwzględnić odwołanie, i tym samym uchylić decyzję o nieprzyjęciu, w drodze uchwały.
-4. Sekretarz DB zawiadamia kandydata o przyjęciu go w poczet członków. W ciągu 1 miesiąca od wysłania zawiadomienia członek musi opłacić z góry 3-miesięczną składkę członkowską. W przypadku niewywiązania się z obowiązku jego członkostwo uznaje się za niebyłe.
+1. O przyjęciu kandydata do DB decyduje Ogół Członków w drodze uchwały, na podstawie złożonej przez kandydata deklaracji członkowskiej.
+2. Sekretarz DB zawiadamia kandydata o przyjęciu go w poczet członków. W ciągu 1 miesiąca od wysłania zawiadomienia członek musi opłacić z góry 3-miesięczną składkę członkowską. W przypadku niewywiązania się z obowiązku jego członkostwo uznaje się za niebyłe.
 
-### Art. C5. Dyscyplinarne zawieszenie w prawach członka
-1. Ogół Członków może dyscyplinarnie zawiesić członka DB w prawach członka w drodze uchwały.
+### Art. C5. Przesłanki wygaśnięcia członkostwa
+Członkostwo w DB wygasa na skutek zarówno:
+
+1. stwierdzenia niespełnienia przez członka wymogów, o których mowa w art. C1;
+2. złożenia przez członka rezygnacji w drodze deklaracji;
+3. nieopłacania składek członkowskich - zgodnie z art. C6;
+4. dyscyplinarnego wykluczenia członka - zgodnie z art. C8;
+5. śmierci członka.
+
+### Art. C6. Wygaśnięcie członkostwa na skutek nieopłacania składek członkowskich
+1. W przypadku nieopłacania składek członkowskich przez okres 3 miesięcy, prawa członka zostają zawieszone do momentu uregulowania zaległości.
+2. W przypadku nieopłacania składek członkowskich przez okres 6 miesięcy, członkostwo wygasa.
+
+### Art. C7. Dyscyplinarne zawieszenie w prawach członka
+1. Ogół Członków może dyscyplinarnie zawiesić członka DB w prawach członka za uzasadnioną przyczyną w drodze uchwały.
 2. Zawieszenie dyscyplinarne powoduje wygaśnięcie pełnionych w DB funkcji oraz utratę biernego i czynnego prawa wyborczego.
 3. Ogół Członków może przywrócić prawa osoby zawieszonej w drodze uchwały.
 4. Przywrócenie praw nie powoduje przywrócenia funkcji pełnionych w chwili zawieszenia ich.
 
-### Art. C6. Przesłanki wygaśnięcia członkostwa
-Członkostwo w DB wygasa na skutek zarówno:
-
-1. stwierdzenia niespełnienia przez członka wymogów, o których mowa w art. C1,
-2. złożenia przez członka rezygnacji w drodze deklaracji,
-3. wykreślenia z powodu nieopłacania składek członkowskich,
-4. wykluczenia członka,
-5. śmierci członka.
-
-### Art. C7. Wykreślenie członka na skutek nieopłacania składek członkowskich
-1. W przypadku nieopłacania składek członkowskich przez okres 3 miesięcy prawa członka zostają zawieszone do momentu uregulowania zaległości, jednak nie dłużej niż na okres kolejnych 3 miesięcy.
-2. Na 14 dni przez upływem 6 miesiąca zalegania ze składkami Skarbnik DB wysyła drogą elektroniczną wezwanie do zapłaty.
-3. Jeżeli członek DB nie ureguluje zaległych płatności w terminie 14 dni od dnia doręczenia wezwania do zapłaty, Zarząd DB wykreśla członka z rejestru członków.
-4. Od decyzji o wykreśleniu osoba wykreślona z rejestru członków może złożyć odwołanie do Ogółu Członków.
-5. Odwołanie osoba wykreślona z rejestru członków może złożyć po uprzednim uregulowaniu zaległych płatności.
-6. Ogół Członków może uwzględnić odwołanie, i tym samym uchylić decyzję o wykreślniu, w drodze uchwały.
-
-### Art. C8. Wykluczenie członka
-Ogół Członków może wykluczyć członka DB za uzasadnioną przyczyną w drodze uchwały podjętej przez 4/5 głosujących.
+### Art. C8. Dyscyplinarne wykluczenie członka
+Ogół Członków może dyscyplinarnie wykluczyć członka DB za uzasadnioną przyczyną w drodze uchwały.
 
 ### Art. C9. Odpowiedzialność polityczna
 Członek DB pełniący funkcje we władzach publicznych odpowiada politycznie za swoją działalność przed organami DB.
@@ -120,10 +114,9 @@ Ogół Członków ma prawo:
 1. uchwalania statutu oraz zmian w statucie DB - w drodze uchwały popartej większością 2/3 głosów;
 2. określania kierunków strategii politycznej DB;
 3. określania programu DB;
-4. rozpatrywania odwołania od nieprzyjęcia członka - zgodnie z art. C4;
-5. dyscyplinarnego zawieszania oraz odwieszania w prawach członka - zgodnie z art. C5;
-6. rozpatrywania odwołania od wykreślenia na skutek nieopłacania składek członkowskich - zgodnie z art. C7;
-7. wykluczania członków - zgodnie z art. C8;
+4. przyjmowania członków - zgodnie z art. C4;
+5. dyscyplinarnego zawieszania oraz odwieszania w prawach członka - zgodnie z art. C7;
+7. dyscyplinarnego wykluczania członków - zgodnie z art. C8;
 8. powoływania oraz odwoływania członków Zarządu DB - zgodnie z art. E2;
 9. ustanawiania oraz rozwiązywania grup zadaniowych, a także powoływania, odwoływania oraz zmieniania ich władz, chyba, że uchwała powołująca stanowi inaczej - zgodnie z art. F2 - F5;
 10. zatwierdzania list wyborczych oraz kandydatów w wyborach powszechnych;
@@ -154,8 +147,6 @@ Do reprezentowania DB na zewnątrz oraz do zaciągania zobowiązań majątkowych
 Do kompetencji Zarządu DB należy zarazem:
 
 1. wykonywanie uchwał Ogółu Członków;
-2. przyjmowanie członków - zgodnie z art. C4;
-3. wykreślanie członków na skutek nieopłacenia składek - zgodnie z art. C7;
 4. reprezentowanie DB na zewnątrz - zgodnie z art. E3;
 5. zatwierdzanie informacji o działalności finansowej partii;
 6. przyjmowanie członków do zespołów powiatowych - zgodnie z art. F4;
@@ -174,8 +165,7 @@ Do kompetencji Sekretarza DB należy zarazem:
 Do kompetencji Skarbnika DB należy zarazem:
 
 1. prowadzenie i aktualizowanie rejestru składek - najrzadziej co miesiąc, w tym przed każdorazowym wysłaniem wezwania do zapłaty zaległych składek;
-2. wzywanie członków do zapłaty zaległych składek - zgodnie z art. C7;
-3. administrowanie finansami DB;
+2. administrowanie finansami DB;
 4. przygotowywanie informacji o działalności finansowej partii;
 5. pełnienie funkcji pełnomocnika finansowego Funduszu Wyborczego Demokracja Bezpośrednia;
 6. składanie sprawozdania o źródłach pozyskania środków finansowych oraz o wydatkach poniesionych ze środków Funduszu Wyborczego do Państwowej Komisji Wyborczej.
