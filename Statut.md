@@ -6,19 +6,13 @@
 3. Terenem działania DB jest Rzeczypospolita Polska.
 4. Siedzibą DB jest miasto stołeczne Warszawa.
 
-### Art. A2. Tryb podejmowania decyzji
-1. Kolegialne organy DB wyrażają swoją wolę w formie uchwał. Inne organy DB wyrażają swoją wolę w formie postanowień. Członkowie DB wyrażają swoją wolę w formie deklaracji.
-2. Zasady podejmowania uchwał, wydawania postanowień i publikowania deklaracji precyzuje uchwała Ogółu Członków ([[Regulamin oświadczeń]]).
-3. Prawo do głosowania mają członkowie, którzy nie zalegają z opłatami składek, z zastrzeżeniem ust. 4.
-4. Prawo do głosowania członkowie nabywają po opłaceniu składki, o której mowa w art. C4.
-
-### Art. A3. Rejestry
+### Art. A2. Rejestry
 1. Rejestr członków to baza danych członków DB prowadzona w formie elektronicznej.
 2. Rejestr uchwał to baza danych uchwał oraz postanowień podjętych przez organy DB prowadzona w formie elektronicznej.
 3. Rejestr składek to baza danych zawierająca informację do kiedy każdy członek ma opłacone składki prowadzona w formie elektronicznej.
 4. Wyżej wymienione rejestry są jawne, i są częścią Biuletynu Informacji Publicznej DB. Członek nie może powoływać się na nieznajomość rejestrów.
 
-### Art. A4. Sposoby finansowania partii
+### Art. A3. Sposoby finansowania partii
 1. Majątek DB powstaje ze składek członkowskich, darowizn oraz innych źródeł dozwolonych w Rozdziale 4 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych.
 2. Wysokość, częstotliwość oraz zasady opłacania składek członkowskich określa [[Regulamin składek i darowizn]].
 3. Zasady wpłacania darowizn określa [[Regulamin składek i darowizn]].
@@ -101,13 +95,28 @@ Członek DB pełniący funkcje we władzach publicznych odpowiada politycznie za
 
 
 
-## Rozdział D. Ogół Członków
+## Rozdział D. Władze DB
 
-### Art. D1. Ogół Członków
+### Art. D1. Władze DB
+Władzami DB są:
+1) Ogół Członków;
+2) Zarząd DB.
+
+### Art. D2. Tryb podejmowania decyzji
+1. Kolegialne organy DB wyrażają swoją wolę w formie uchwał. Inne organy DB wyrażają swoją wolę w formie postanowień. Członkowie DB wyrażają swoją wolę w formie deklaracji.
+2. Zasady podejmowania uchwał, wydawania postanowień i publikowania deklaracji precyzuje uchwała Ogółu Członków ([[Regulamin oświadczeń]]).
+3. Prawo do głosowania mają członkowie, którzy nie zalegają z opłatami składek, z zastrzeżeniem ust. 4.
+4. Prawo do głosowania członkowie nabywają po opłaceniu składki, o której mowa w art. C4.
+
+
+
+## Rozdział E. Ogół Członków
+
+### Art. E1. Ogół Członków
 1. Ogół Członków jest najwyższą władzą DB.
 2. Ogół Członków składa się ze wszystkich członków DB.
 
-### Art. D2. Prawa Ogółu Członków
+### Art. E2. Prawa Ogółu Członków
 Ogół Członków ma prawo:
 
 1. uchwalania statutu oraz zmian w statucie DB - w drodze uchwały popartej większością 2/3 głosów;
@@ -116,8 +125,8 @@ Ogół Członków ma prawo:
 4. przyjmowania członków - zgodnie z art. C4;
 5. dyscyplinarnego zawieszania oraz odwieszania w prawach członka - zgodnie z art. C7;
 7. dyscyplinarnego wykluczania członków - zgodnie z art. C8;
-8. powoływania oraz odwoływania członków Zarządu DB - zgodnie z art. E2;
-9. ustanawiania oraz rozwiązywania grup zadaniowych, a także powoływania, odwoływania oraz zmieniania ich władz, chyba, że uchwała powołująca stanowi inaczej - zgodnie z art. F2 - F5;
+8. powoływania oraz odwoływania członków Zarządu DB - zgodnie z art. F2;
+9. ustanawiania oraz rozwiązywania grup zadaniowych, a także powoływania, odwoływania oraz zmieniania ich władz, chyba, że uchwała powołująca stanowi inaczej - zgodnie z art. G2 - G5;
 10. zatwierdzania list wyborczych oraz kandydatów w wyborach powszechnych;
 11. podejmowania decyzji o rozwiązaniu DB albo o połączeniu DB z inną partią - w drodze uchwały popartej większością 2/3 głosów;
 12. podejmowanie decyzji o dołączeniu do organizacji międzynarodowych - w drodze uchwały popartej większością 2/3 głosów;
@@ -126,12 +135,12 @@ Ogół Członków ma prawo:
 
 
 
-## Rozdział E. Zarząd DB
+## Rozdział F. Zarząd DB
 
-### Art. E1. Zarząd partii
+### Art. F1. Zarząd partii
 Zarząd DB to najwyższy organ administracyjny i reprezentacyjny DB.
 
-### Art. E2. Skład zarządu
+### Art. F2. Skład zarządu
 1. Zarząd DB składa się z od 3 do 9 Przedstawicieli DB, w tym Sekretarza DB i Skarbnika DB.
 2. Przedstawiciel może łączyć funkcje Skarbnika DB i Sekretarza DB.
 3. Ogół Członków powołuje i odwołuje Przedstawicieli DB w drodze uchwały.
@@ -139,19 +148,19 @@ Zarząd DB to najwyższy organ administracyjny i reprezentacyjny DB.
 5. Rezygnację z funkcji Przedstawiciela DB można złożyć w drodze deklaracji.
 6. W przypadku rezygnacji lub odwołania Sekretarza DB lub Skarbnika DB, Zarząd DB w ciągu 7 dni wybiera ze swojego grona Przedstawiciela, i powierza mu pełnienie obowiązków odpowiednio Sekretarza DB lub Skarbnika DB do momentu podjęcia uchwały Ogółu Członków o wyborze nowego odpowiednio Sekretarza DB lub Skarbnika DB.
 
-### Art. E3. Zasady reprezentacji
+### Art. F3. Zasady reprezentacji
 Do reprezentowania DB na zewnątrz oraz do zaciągania zobowiązań majątkowych upoważnieni są łącznie: 3 Przedstawiciele DB lub Sekretarz z innym Przedstawicielem DB, lub Skarbnik z innym Przedstawicielem DB - chyba że statut lub uchwała Ogółu Członków udziela pełnomocnictwa do reprezentacji w określonym zakresie innemu członkowi DB.
 
-### Art. E4. Kompetencje zarządu
+### Art. F4. Kompetencje zarządu
 Do kompetencji Zarządu DB należy zarazem:
 
 1. wykonywanie uchwał Ogółu Członków;
-4. reprezentowanie DB na zewnątrz - zgodnie z art. E3;
+4. reprezentowanie DB na zewnątrz - zgodnie z art. F3;
 5. zatwierdzanie informacji o działalności finansowej partii;
-6. przyjmowanie członków do zespołów powiatowych - zgodnie z art. F4;
+6. przyjmowanie członków do zespołów powiatowych - zgodnie z art. G4;
 7. odpowiadanie na zapytania członków w sprawie działalności DB.
 
-### Art. E5. Kompetencje sekretarza
+### Art. F5. Kompetencje sekretarza
 Do kompetencji Sekretarza DB należy zarazem:  
 
 1. prowadzenie i aktualizowanie rejestru uchwał oraz rejestru członków - najpóźniej w terminie 14 dni od zaistnienia zdarzenia powodującego konieczność aktualizacji;
@@ -160,7 +169,7 @@ Do kompetencji Sekretarza DB należy zarazem:
 4. zawiadamianie nowych członków o przyjęciu do DB - zgodnie z art. C4;
 5. zawiadamianie sądu o zmianie statutu partii, zmianie adresu siedziby partii, a także zmianach w składzie Zarządu DB, zgodnie z art. 19 Ustawy o partiach politycznych.
 
-### Art. E6. Kompetencje skarbnika
+### Art. F6. Kompetencje skarbnika
 Do kompetencji Skarbnika DB należy zarazem:
 
 1. prowadzenie i aktualizowanie rejestru składek - najrzadziej co miesiąc;
@@ -171,12 +180,12 @@ Do kompetencji Skarbnika DB należy zarazem:
 
 
 
-## Rozdział F. Zespoły zadaniowe
+## Rozdział G. Zespoły zadaniowe
 
-### Art. F1. Zespół zadaniowy
+### Art. G1. Zespół zadaniowy
 Zespół zadaniowy to podstawowa jednostka organizacyjno-wykonawcza DB.
 
-### Art. F2. Tryb ustanawiania zespołu zadaniowego
+### Art. G2. Tryb ustanawiania zespołu zadaniowego
 1. Ogół Członków, Zarząd DB oraz zespoły powiatowe mogą ustanawiać zespoły zadaniowe i przekazywać im część swoich kompetencji lub zadań w drodze uchwały.
 2. Uchwała powołująca zespół zadaniowy musi zawierać:  
 a) cele powołania zespołu zadaniowego,  
@@ -188,11 +197,11 @@ f) strukturę organizacyjną zespołu zadaniowego,
 g) sposób przydzielania funkcji opisanych przez tę strukturę,  
 h) imiennie członków-założycieli zespołu.
 
-### Art. F3. Tryb rozwiązywania zespołu zadaniowego
+### Art. G3. Tryb rozwiązywania zespołu zadaniowego
 1. Ogół Członków, Zarząd DB oraz zespoły powiatowe mogą rozwiązać ustanowiony przez siebie zespół zadaniowy w drodze uchwały.
 2. Uchwała rozwiązująca zespół zadaniowy musi zawierać uzasadnienie.
 
-### Art. F4. Zespoły powiatowe – lex specialis
+### Art. G4. Zespoły powiatowe – lex specialis
 1. Zespół powiatowy jest to zespół zadaniowy, podstawowa jednostka organizacyjno-wykonawcza DB na terenie powiatu lub miasta na prawach powiatu.
 2. Zespoły powiatowe funkcjonują z mocy statutu we wszystkich powiatach i miastach na prawach powiatu Polski.
 3. Zespół powiatowy może zostać rozwiązany w drodze uchwały Ogółu Członków. W tej sytuacji zostaje on automatycznie utworzony ponownie z mocy statutu, nie zawierając jednak żadnych członków ani obowiązujących uchwał.
@@ -204,9 +213,9 @@ h) imiennie członków-założycieli zespołu.
 9. Zespół powiatowy wyklucza członków w drodze uchwały podjętej przez 2/3 głosujących.
 10. Członek DB nie może być jednocześnie członkiem więcej niż jednego zespołu powiatowego.
 11. Niedozwolone jest powoływanie zespołów zadaniowych o charakterze zespołów powiatowych.
-12. Zespoły powiatowe funkcjonują bezterminowo. Przepisów art. F3. nie stosuje się w stosunku do zespołów powiatowych.
+12. Zespoły powiatowe funkcjonują bezterminowo. Przepisów art. G3. nie stosuje się w stosunku do zespołów powiatowych.
 
-### Art. F5. Zespoły okręgowe - lex specialis
+### Art. G5. Zespoły okręgowe - lex specialis
 1. Zespół okręgowy to tymczasowy zespół zadaniowy, powoływany przez zrzeszenie lub podział zespołów powiatowych zgodnie z układem okręgów wyborczych w Polsce w drodze uchwały Ogółu Członków.
 2. Celem zespołu okręgowego jest prowadzenie działań związanych z wyborami i kampanią wyborczą na terenie okręgu.
 3. W przypadku zespołu okręgowego powstałego w wyniku połączenia zespołów powiatowych, członkami zespołu są wszyscy członkowie połączonych zespołów powiatowych.
