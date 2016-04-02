@@ -99,8 +99,9 @@ Członek DB pełniący funkcje we władzach publicznych odpowiada politycznie za
 
 ### Art. D1. Władze DB
 Władzami DB są:
-1) Ogół Członków;
-2) Zarząd DB.
+
+1. Ogół Członków;
+2. Zarząd DB.
 
 ### Art. D2. Tryb podejmowania decyzji
 1. Kolegialne organy DB wyrażają swoją wolę w formie uchwał. Inne organy DB wyrażają swoją wolę w formie postanowień. Członkowie DB wyrażają swoją wolę w formie deklaracji.
