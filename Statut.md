@@ -53,7 +53,6 @@ Członek DB ma prawo:
 2. uczestniczenia w tworzeniu programu oraz założeń polityki DB;
 3. komunikowania oraz rozpowszechniania własnych inicjatyw społecznych i politycznych wśród członków DB;
 4. uzyskiwania informacji o działalności partii oraz działalności jej przedstawicieli w organach władzy publicznej;
-5. uczestniczenia w posiedzeniach organów DB;
 6. kandydowania na każdą funkcję w DB;
 7. korzystania z poparcia DB w czasie działalności, zwłaszcza w okresie kampanii wyborczej;
 8. korzystania ze wsparcia DB, w przypadku doznania krzywdy z powodu działalności politycznej;
