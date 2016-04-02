@@ -115,6 +115,7 @@ Władzami DB są:
 ### Art. E1. Ogół Członków
 1. Ogół Członków jest najwyższą władzą DB.
 2. Ogół Członków składa się ze wszystkich członków DB.
+3. Uchwały Ogółu Członków są nazywane Uchwałami DB.
 
 ### Art. E2. Prawa Ogółu Członków
 Ogół Członków ma prawo:
