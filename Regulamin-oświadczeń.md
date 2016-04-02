@@ -18,8 +18,8 @@
 3. Projekt uchwały Ogółu Członków może ponadto zgłosić zespół zadaniowy i zarząd krajowy DB w drodze uchwały.
 
 ### Art. 4. Głosowanie uchwał
-1. Głosowanie rozpoczyna się nie wcześniej niż po 24 godzinach i nie później niż 7 dni po wniesieniu projektu uchwały.
-2. Głosowanie trwa 48 godzin.
+1. Głosowanie uchwał Ogółu Członków rozpoczyna się nie wcześniej niż po 24 godzinach i nie później niż 7 dni po wniesieniu projektu uchwały.
+2. Głosowanie uchwał Ogółu Członków trwa 48 godzin.
 3. Głosować można wyłącznie osobiście.
 
 # Regulamin Systemu elektronicznego DB: Facebook
