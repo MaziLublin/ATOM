@@ -15,7 +15,7 @@
 ### Art. 3. Projekty uchwał
 1. Uchwały zgłasza się w formie projektu.
 2. Projekt uchwały organu albo zespołu zadaniowego może zgłosić przynajmniej 15 lub przynajmniej 10% członków danego organu albo zespołu zadaniowego.
-3. Projekt uchwały Ogółu Członków może ponadto zgłosić zespół zadaniowy i zarząd krajowy DB w drodze uchwały.
+3. Projekt uchwały Ogółu Członków może ponadto zgłosić zespół zadaniowy i Zarząd DB w drodze uchwały.
 
 ### Art. 4. Głosowanie uchwał
 1. Głosowanie uchwał Ogółu Członków rozpoczyna się nie wcześniej niż po 24 godzinach i nie później niż 7 dni po wniesieniu projektu uchwały.
