@@ -28,6 +28,7 @@
 2. Miejscem obrad Ogółu Członków DB jest grupa https://www.facebook.com/groups/DB.ogol/
 3. Miejscem obrad Zarządu DB jest grupa https://www.facebook.com/groups/DB.zarzad/
 4. Miejsca obrad zespołów zadaniowych określa się w uchwałach je powołujących.
+5. W przypadku braku możliwości wykorzystania grup o adresach podanych w ust. 2 i 3, Sekretarz DB wyznaczy inne grupy i wymieni je w Biuletynie Informacji Publicznej, dodając do nich konta odpowiednich członków DB.
 
 ### Art. 2.
 Deklaracje i postanowienia publikuje się na grupie Ogółu Członków DB.
